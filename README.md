@@ -1,7 +1,9 @@
 # HarryPotterCloak
 <img src='https://github.com/taruntiwarihp/raw_images/blob/master/images.jpg'>
-Python file [here](https://github.com/taruntiwarihp/python_projects/blob/master/cloak_magic.py)
-we will create this magical experience using an image processing technique called Color detection and segmentation. Why Red? Sure, we could have used green or any other color also. ALOGRITHM:
+* Python file [here](https://github.com/taruntiwarihp/python_projects/blob/master/cloak_magic.py)
+
+
+* we will create this magical experience using an image processing technique called Color detection and segmentation. Why Red? Sure, we could have used green or any other color also. ALOGRITHM:
 
 1. Capture and store the background frame [ This will be done for some seconds ]
 2. Detect the red colored cloth using color detection and segmentation algorithm.
